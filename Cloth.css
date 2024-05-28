@@ -1,0 +1,47 @@
+.All-div {
+  border-color: blueviolet;
+  border-style: solid;
+  display: inline-block;
+}
+
+.image {
+  width: 220px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Arial';
+}
+
+.amount {
+  font-size: 17px;
+  font-weight: 800;
+  font-family: Arial;
+}
+
+.rating {
+  width: 140px;
+}
+
+.quantity-selector {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  background-color: blue;
+  color: white;
+  height: 30px;
+  width: 50px;
+  border-radius: 8px;
+}
+
+.add {
+  background-color: green;
+  color: white;
+  font-size: 22px;
+  font-family: Arial;
+  font-weight: 800;
+  border-radius: 9px;
+  width: 170px;
+  height: 40px;
+  margin-left: 10px;
+}
